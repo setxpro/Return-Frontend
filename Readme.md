@@ -21,4 +21,4 @@
 ## Starting Dev Environment
 
 1. Run `npm install` or `yarn install`.<br />
-2. Run `npm run start`.<br />
+2. Run `npm run dev`.<br />
