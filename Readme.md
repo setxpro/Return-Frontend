@@ -1,6 +1,6 @@
 
 <h1 align="center">
- RETURN
+ RETURN is in progress
 </h1>
 <p align="center">Return is a functional component to assist with your system's feedback.</p>
 <hr>
@@ -21,4 +21,4 @@
 ## Starting Dev Environment
 
 1. Run `npm install` or `yarn install`.<br />
-2. Run `npm run start`.<br />
+2. Run `npm run dev`.<br />
